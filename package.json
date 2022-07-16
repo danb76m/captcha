@@ -1,0 +1,14 @@
+{
+  "name": "captchaapi",
+  "version": "1.0.0",
+  "description": "captcha api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danb76",
+  "license": "ISC",
+  "dependencies": {
+    "trek-captcha": "^0.4.0"
+  }
+}
